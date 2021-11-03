@@ -8,10 +8,10 @@ Setup git user with command
 
 ```bash
 # With curl
-curl -o- https://raw.githubusercontent.com/OpenGG/git-role/gr.sh | bash
+curl -o- https://raw.githubusercontent.com/OpenGG/git-role/main/gr.sh | bash
 
 # Or with wget
-wget -qO- https://raw.githubusercontent.com/OpenGG/git-role/gr.sh | bash
+wget -qO- https://raw.githubusercontent.com/OpenGG/git-role/main/gr.sh | bash
 ```
 
 ## Use case
